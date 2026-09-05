@@ -1,19 +1,19 @@
 {
-    "version": "1.3.7",
+    "version": "1.3.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/porech/dwshell/releases/download/v1.3.7/dwshell_1.3.7_windows_amd64.zip",
+            "url": "https://github.com/porech/dwshell/releases/download/v1.3.8/dwshell_1.3.8_windows_amd64.zip",
             "bin": [
                 "dwshell.exe"
             ],
-            "hash": "479b1209e134cb0e5db793cab9b3127fe6182eb9e2b7118749501e88d40e902f"
+            "hash": "fd5d98e8b7bc6788a5abaf5aa185160204873ac86cb55a60f90e02353623ccbe"
         },
         "arm64": {
-            "url": "https://github.com/porech/dwshell/releases/download/v1.3.7/dwshell_1.3.7_windows_arm64.zip",
+            "url": "https://github.com/porech/dwshell/releases/download/v1.3.8/dwshell_1.3.8_windows_arm64.zip",
             "bin": [
                 "dwshell.exe"
             ],
-            "hash": "6b294e11bc11e9327c75a1fd2032299ebafa8fe6df4f852bff6c5d3cc945bd1c"
+            "hash": "de6b72ea11af7d8066e7cf74751f768a34825b04c22a3976a6b0aa88110c06aa"
         }
     },
     "homepage": "https://github.com/porech/dwshell",
